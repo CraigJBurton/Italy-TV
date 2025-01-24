@@ -1,0 +1,124 @@
+#EXTINF:-1 tvg-id="Rai 1" group-title="Rai",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai 2" group-title="Rai",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai 3" group-title="Rai",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rete 4" group-title="Rete 4",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Canale 5" group-title="Canale 5",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Italia 1" group-title="Mediaset",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="La7" group-title="La7",La7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-id="TV8" group-title="TV8",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id="Nove" group-title="Discovery",Nove
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="20 Mediaset" group-title="Mediaset",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai 4" group-title="Rai",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Iris  " group-title="Mediaset",Iris  
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai 5" group-title="Rai",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai Movie" group-title="Rai",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai Premium" group-title="Rai",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Cielo" group-title="Cielo",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id=" 27 Twentyseven" group-title="Mediaset", 27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="TV 2000" group-title="TV 2000",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="La7d" group-title="La7d",La7d
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-id="La 5" group-title="La 5",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Real Time" group-title="Real Time",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC" group-title="QVC",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="Food Network" group-title="Discovery",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine34" group-title="Mediaset",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Focus" group-title="Focus",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RTL 102.5" group-title="Radio",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:-1 tvg-id=" Warner TV" group-title="Discovery", Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id=" Giallo" group-title="Sky", Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Top Crime" group-title="Top Crime",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="BOING" group-title="BOING",BOING
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="K2" group-title="K2",K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai Gulp" group-title="Rai",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai YoYo" group-title="Rai",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Frisbee" group-title="Frisbee",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" group-title="Cartoonito",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super!" group-title="Super!",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai News 24" group-title="Rai",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Italia 2" group-title="Mediaset",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Sky TG24" group-title="Sky",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id="TGCOM 24" group-title="TGCOM 24",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="DMAX" group-title="DMAX",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai Storia" group-title="Rai",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Mediaset Extra" group-title="Mediaset",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="HGTVHome & Garden Tv" group-title="HGTVHome & Garden Tv",HGTVHome & Garden Tv
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai Scuola" group-title="Rai",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai Sport" group-title="Rai",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Motor Trend" group-title="Motor Trend",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia Plus" group-title="Sportitalia Plus",Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel TV" group-title="Travel TV",Travel TV
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 tvg-id="Donna TV" group-title="Donna TV",Donna TV
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 tvg-id="SuperTennis" group-title="SuperTennis",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+#EXTINF:-1 tvg-id="Alma TV" group-title="Alma TV",Alma TV
+https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 tvg-id="Radio 105 TV" group-title="Radio",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101 TV" group-title="Radio",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Deejay TV" group-title="Radio",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV" group-title="Radio",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="Radio KISS KISS TV" group-title="Radio",Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai Radio 2 Visual Radio" group-title="Radio",Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RadioFreccia" group-title="Radio",RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1 tvg-id="RDS Social TV" group-title="RDS Social TV",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-id="Radio ZETA" group-title="Radio",Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio TV Serie A con RDS " group-title="Radio",Radio TV Serie A con RDS 
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
